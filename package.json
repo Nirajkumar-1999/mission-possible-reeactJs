@@ -1,0 +1,23 @@
+{
+  "name": "namstey",
+  "version": "1.0.0",
+  "description": "Namstey React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirajkumar-1999/mission-possible-reeactJs.git"
+  },
+  "keywords": [
+    "react",
+    "niraj"
+  ],
+  "author": "Niraj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirajkumar-1999/mission-possible-reeactJs/issues"
+  },
+  "homepage": "https://github.com/Nirajkumar-1999/mission-possible-reeactJs#readme"
+}
